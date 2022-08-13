@@ -21,7 +21,7 @@ I really like frontend development and I have some backend knowledge, always ope
 
 - 📖 Things I'm learning: React, Typescript, Jamstack.
 - 🏳️‍🌈 My pronouns are she/her.
-- 👽 The X-Files and Calvin & Hobbes are my pop culture references.
+- 👽 The X-Files, Doctor Who and Calvin & Hobbes are my pop culture references.
 - 🤓 Music enthusiast, sci-fi fan, comic-con goer, podcaster.
 
 ### Languages and Tools:
