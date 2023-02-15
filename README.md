@@ -15,11 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Hi!, I'm Edith 👩🏻‍💻, geek and frontend developer based in Monterrey (🇲🇽), now focused on remote work. 
+Hi!, I'm Edith 👩🏻‍💻, geek and software engineer based in Monterrey (🇲🇽), now focused on remote work. 
 
-I really like frontend development and I have some backend knowledge, always open to learning new languages and technologies. Also, I've worked with Wordpress for years as a freelancer. I believe ethics and inclusion are key for a better internet.
+I love frontend development and I have some backend knowledge, always open to learning new technologies. Also, I've worked with Wordpress for years as a freelancer. I believe ethics and inclusion are key for a better IT industry.
 
-- 📖 Things I'm learning: React, Typescript, Next.js.
+- 📖 Things I'm learning: Typescript, Next.js, Redux Toolkit.
 - 🏳️‍🌈 My pronouns are she/her.
 - 👽 The X-Files, Doctor Who and Calvin & Hobbes are my pop culture references.
 - 🤓 Music enthusiast, sci-fi fan, comic-con goer, podcaster.
